@@ -1,114 +1,141 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Santosh;AI+%26+ML+Engineer;Building+Smart+Solutions;Welcome+to+my+GitHub!" alt="Typing SVG" />
+
+# 👋 Hi, I'm **Santosh Kumar**  
+### **AI/ML Engineer | Generative AI | Machine Learning | Data Science**
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=3500&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=AI%2C+ML+%26+Generative+AI+Engineer;Building+Intelligent+Systems;Deep+Learning+%7C+NLP+%7C+Computer+Vision;Always+Learning+%26+Innovating" />
+
 </div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Santosh9519424222&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/Santosh9519424222?label=Followers&style=social" alt="followers" />
-</p>
-
 ---
-
-## 🚀 About Me
-
-I'm an aspiring **AI & ML Engineer** passionate about building intelligent solutions that make a difference. I love exploring cutting-edge technologies and turning innovative ideas into reality.
-
-- 🔭 I'm currently working on **AI/ML projects**
-- 🌱 I'm currently learning **Deep Learning, NLP, and Computer Vision**
-- 💬 Ask me about **Python, Machine Learning, AI**
-- 📫 How to reach me: **santosh.951942@gmail.com**
-- ⚡ Fun fact: **I turn coffee into code!**
-
----
-
-## 🛠️ Tech Stack
-
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
-### AI/ML & Data Science
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-
-### Web Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-
-### Tools & Technologies
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-### Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
----
-
-## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Santosh9519424222&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santosh9519424222&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="180em" />
-</div>
+  
+![Profile Views](https://komarev.com/ghpvc/?username=Santosh9519424222&label=Profile%20Visits&color=0e75b6&style=flat)
+![Followers](https://img.shields.io/github/followers/Santosh9519424222?style=social)
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Santosh9519424222&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://my-portfolio-n4od-git-main-santosh9519424222s-projects.vercel.app/" alt="GitHub Trophies" />
 </div>
 
 ---
 
-## 📈 Contribution Graph
+## 🚀 **About Me**
 
-<!-- GitHub Contribution Snake -->
+I am an enthusiastic **AI/ML Engineer** passionate about designing intelligent systems, solving data-driven problems, and building practical AI applications.  
+My strengths include **Machine Learning, Deep Learning, Generative AI, RAG systems, and end-to-end deployment** of AI solutions.
+
+- 🔭 Currently working on **AI, ML & Generative AI projects**
+- 🤖 Skilled in **LLMs, CNNs, Deep Learning, and vector databases**
+- 🧠 Learning **Advanced LLMs, RAG, LangGraph, and MLOps**
+- ☁️ Experienced with **Python, TensorFlow, PyTorch, FastAPI, LangChain**
+- 📬 Reach me at: **santosh.951942@gmail.com**
+- 💡 Fun fact: *I love turning ideas into production-ready AI tools.*
+
+---
+
+## 🛠️ **Technical Skills**
+
+### 👨‍💻 **Programming**
+- Python, C, JavaScript, Java, C++
+
+### 📊 **Data Science**
+- Pandas • NumPy • Matplotlib • Seaborn • Data Cleaning • EDA
+
+### 🤖 **Machine Learning**
+- scikit-learn (Pipelines, GridSearchCV)  
+- TensorFlow • Keras • PyTorch  
+- Model Optimization & Deployment
+
+### 🧬 **Generative AI**
+- LLMs • LangChain • LangGraph • RAG Systems  
+- OpenAI API • Agent Tools • Prompt Engineering
+
+### 🌐 **Web / App / Tools**
+- Flask • FastAPI • React  
+- Git • GitHub • VS Code • Google Cloud • Google Colab  
+- Docker • n8n • JetBrains Tools
+
+---
+
+## 📂 **Featured Projects**
+
+### 🚤 **Boat Recognition System (MobileNetV2 + TensorFlow)**
+- Built a mobile-optimized CNN to classify **9 boat types (85% accuracy)**  
+- Deployed via **Flask API + Frontend UI**  
+🔗 Repo: https://github.com/Santosh9519424222/boat-classification
+
+---
+
+### 🧮 **Math-Focused Assistant (RAG + LLM + LangGraph)**
+- AI-powered math assistant with **LLM reasoning**, **OCR**, and **web search**
+- Uses **Qdrant vector DB** and **FastAPI**  
+🔗 Repo: https://github.com/Santosh9519424222/Math-Focused-Assistant
+
+---
+
+### 🎨 **Text-to-Image Generator (DALL·E + Gradio)**
+- Developed a T2I generator producing **1024×1024 images**
+- Secure API integration with OpenAI  
+🔗 Repo: https://github.com/Santosh9519424222/Prompt2Image
+
+---
+
+### 🧠 **Reddit User Persona Generator (GPT-4 + Python)**
+- Generates psychographic personas from Reddit user data  
+- Export to **JSON/PDF**  
+🔗 Repo: *(share when ready)*
+
+---
+
+## 🎓 **Certifications**
+- **Artificial Intelligence Engineer Master’s Program – Simplilearn & IBM (2024–2025)**  
+- C with HTML – Summer Training (2021)
+
+---
+
+## 📊 **GitHub Analytics**
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Santosh9519424222&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santosh9519424222&layout=compact&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Santosh9519424222&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🏆 **Trophies**
+<div align="center">
+  <img src="https://my-portfolio-n4od-git-main-santosh9519424222s-projects.vercel.app/" alt="Trophies" />
+</div>
+
+---
+
+## 🐍 **Contribution Graph (Snake Animation)**
+
+<div align="center">
+
 ![GitHub Snake](https://raw.githubusercontent.com/Santosh9519424222/Santosh9519424222/output/snake.svg)
 
-
----
-
-## 🤝 Connect with Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/santosh-kumar-43224a320" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/santosh9519424222" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="mailto:santosh.951942@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/Santosh9519424222" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
-
----
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
 </div>
 
+---
+
+## 🤝 **Connect With Me**
+
 <div align="center">
-  <i>⭐️ From <a href="https://github.com/Santosh9519424222">Santosh9519424222</a></i>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santosh-kumar-43224a320)  
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Santosh9519424222)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:santosh.951942@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+> ⭐️ *Thanks for visiting! Feel free to explore my repositories and connect with me.*
+
 </div>
