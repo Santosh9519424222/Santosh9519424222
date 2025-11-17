@@ -2,26 +2,28 @@ name: Generate Contribution Snake
 
 on:
   schedule:
-    - cron: '0 0 * * *'    # Runs every day at midnight UTC
-  workflow_dispatch:       # Lets you run it manually
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout code
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
-      - name: Generate the Snake animation
-        uses: Platane/snk@v3
+      - uses: Platane/snk@v3
         with:
           github_user_name: Santosh9519424222
-          output: dist/snake.svg
+          outputs: dist/snake.svg
 
-      - name: Upload the generated Snake
+      - name: Update snake SVG
         uses: peter-evans/create-or-update-file@v4
         with:
           path: output/github-contribution-grid-snake.svg
           content-file: dist/snake.svg
-          commit-message: Update snake animation
+          commit-message: "update snake"
+          token: ${{ secrets.GITHUB_TOKEN }}
