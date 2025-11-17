@@ -130,10 +130,3 @@ I’m **Santosh Kumar** — an AI / ML Engineer focused on Deep Learning, Comput
 </p>
 
 ---
-
-> ⭐ If you want, I can now:
-> - Add **direct repo links** for each highlighted project (I can auto-build the bullet list with links),  
-> - Produce a condensed **one-page resume** from your GitHub + uploaded resume, or  
-> - Generate a **LinkedIn-ready About section** using the same language.
-
-Tell me which of the three you want next (projects with links / resume page / LinkedIn About) and I’ll produce it.  
