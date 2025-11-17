@@ -81,7 +81,8 @@ I'm an aspiring **AI & ML Engineer** passionate about building intelligent solut
 ## 📈 Contribution Graph
 
 <!-- GitHub Contribution Snake -->
-![GitHub Snake](https://github.com/Santosh9519424222/Santosh9519424222/blob/output/github-contribution-grid-snake.svg)
+![GitHub Snake](https://raw.githubusercontent.com/Santosh9519424222/Santosh9519424222/output/snake.svg)
+
 
 ---
 
