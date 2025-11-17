@@ -9,133 +9,106 @@
 
 ---
 
-# 👨‍💻 **About Me**
+# 👨‍💻 About Me
+I’m **Santosh Kumar** — an AI / ML Engineer focused on Deep Learning, Computer Vision, NLP, and Generative AI. I build end-to-end systems (research → prototype → deploy) and enjoy productionizing models, experimenting with LLMs, and designing efficient ML pipelines.
 
-I’m an aspiring **AI & Machine Learning Engineer** with strong skills in **Deep Learning, NLP, Computer Vision, Python**, and modern **Generative AI frameworks**. I love turning ideas into intelligent solutions and continuously improving my technical expertise through real-world projects.
-
-- 🔭 Currently building **AI/ML & GenAI Projects**  
-- 🌱 Learning **Advanced Deep Learning, LLMs, & Vector Databases**  
-- 🤖 Passionate about **RAG, LangChain, Autonomous AI Agents, and Model Deployment**  
-- 💬 Ask me about **Python, ML/DL, GenAI, NLP, CV, Chatbots, Transfer Learning**  
-- 📫 Reach me at: **santosh.951942@gmail.com**  
-- ⚡ Fun fact: I’m always *eager to learn* and experiment with new AI tools & frameworks!
+- 🔭 Currently building **GenAI & ML projects**  
+- 🌱 Learning **advanced LLM architectures, vector DBs & MLOps**  
+- 📫 Reach me: **santosh.951942@gmail.com**
 
 ---
 
-# 🛠️ **Technical Skills**
+# 🛠️ Technical Skills (complete & expanded)
 
-### 🧠 **AI / ML / DL**
-- Supervised & Unsupervised ML  
-- CNNs, RNNs, LSTMs  
-- Transfer Learning (MobileNetV2, ResNet, VGG)  
-- Generative AI (OpenAI, Midjourney-style pipelines)  
-- LangChain, LLM Prompt Engineering  
-- RAG (Retrieval Augmented Generation)  
-- Vector Databases (FAISS / ChromaDB)  
-- Model Evaluation, Explainability (SHAP, Grad-CAM)
+### 🧠 Machine Learning & Deep Learning
+- Supervised / Unsupervised Learning, Feature Engineering, Model Selection  
+- CNNs, RNNs, LSTMs, Transformers, Transfer Learning (MobileNetV2, ResNet, EfficientNet)  
+- Model evaluation, hyperparameter tuning, cross-validation, GridSearch/CV
 
-### 👨‍💻 **Programming & Tools**
-- Python, Java, JavaScript, C++  
-- Pandas, NumPy, Matplotlib, Seaborn  
-- TensorFlow, PyTorch, Keras  
-- OpenCV  
-- Flask, Streamlit  
-- Git, GitHub, VS Code  
-- Jupyter Notebook, Google Colab  
+### 🤖 Generative AI & LLMs
+- OpenAI API (GPT series), Prompt Engineering, Instruction Tuning  
+- LangChain, LangGraph, RAG (Retrieval-Augmented Generation)  
+- Vector DBs & similarity search (Qdrant, FAISS, Chroma)  
+- Agent workflows and multi-step reasoning
 
-### 🗄️ **Databases**
-- MySQL  
-- MongoDB  
-- PostgreSQL  
+### 🧩 NLP & Text
+- Tokenization, embeddings, classification, summarization, semantic search
 
-### 💼 **Soft Skills**
-- Problem Solving  
-- Analytical Thinking  
-- Team Collaboration  
-- Strong Communication  
-- Time & Task Management  
-- Curiosity and Eagerness to Learn  
+### 🖼️ Computer Vision
+- Image classification, object detection, augmentation, MobileNet & Mobile deployment
 
----
+### 🧮 Data Science & Analysis
+- Pandas, NumPy, EDA, visualization (Matplotlib, Seaborn)  
+- SQL basics, data cleaning pipelines
 
-# 🎯 **Open To Work**
-- AI / ML Engineer  
-- Data Scientist  
-- NLP Engineer  
-- Computer Vision Engineer  
-- Python Developer  
-- Machine Learning Intern  
-- AI Research Intern  
+### 🧰 Tools, Frameworks & Libraries
+- TensorFlow, Keras, PyTorch, scikit-learn, OpenCV  
+- Gradio, Streamlit, Flask, FastAPI, Hugging Face Transformers
 
----
+### ☁️ Cloud, Platforms & Dev Environments (added)
+- **Google Cloud Platform** (GCP) — Compute Engine, AI Platform basics  
+- **Google Colab** (notebooks & GPU experimentation)  
+- **Docker** (containers) & local Virtual Machines (VMs)  
+- **JetBrains suite** — WebStorm, PyCharm, JetBrains Gateway (remote dev)  
+- GitHub Actions (CI/CD)  
+- VS Code, Jupyter Notebook / Lab, Google Colab Pro
 
-# 🏆 **Certifications**
+### 🗄 Databases & Storage
+- MySQL, PostgreSQL, MongoDB, Qdrant (vector DB), cloud storage (GCS)
 
-### 🎓 *Artificial Intelligence & Machine Learning*
-- **Artificial Intelligence Engineer – Master’s Program (Simplilearn + IBM)**  
-  *Certificate ID:* 129767264  
-- **Advanced Generative AI** – Simplilearn  
-  *Certificate Code:* 8480425  
-- **AI Engineer Capstone**  
-  *Certificate Code:* 8016153  
-- **Deep Learning**  
-  *Certificate Code:* 7984250  
-- **Machine Learning Using Python**  
-  *Certificate Code:* 8539358  
-- **Data Science With Python**  
-  *Certificate Code:* 8448599  
-- **Python for Data Science – IBM Skills Network** *(Foundational)*
+### 💼 DevOps / Deployment & Monitoring
+- Containerization (Docker), light model deployment via Flask / FastAPI  
+- Experience with basic CI/CD via GitHub Actions and deployment flows
 
-### 💻 *Programming & Foundations*
-- Foundations: Programming Refresher  
-  *Certificate Code:* 7540760  
-- C With HTML (Summer Training – 2021)
+### 🧠 Soft Skills
+- Problem solving, communication, team collaboration, time management, eagerness to learn
 
 ---
 
-# 🚀 **Highlighted Projects**
-
-### 🔹 **AI-Powered Boat Classification System (CNN + MobileNetV2)**
-- Classifies **9 boat categories** with high accuracy  
-- Built using **CNN, MobileNetV2, TensorFlow, Keras**  
-- Designed a **mobile-friendly lightweight model**  
-- Includes model deployment and performance comparison  
+# 🎯 Career Focus
+- Roles: AI/ML Engineer, NLP / CV Engineer, ML Dev, MLOps/Model Deployment  
+- Interests: Generative AI, LLM orchestration, efficient edge models, RAG systems, production ML
 
 ---
 
-### 🔹 **Sentiment Analysis Real-Time Web App**
-- Predicts **positive / negative / neutral** sentiment  
-- Built using **Scikit-learn, NLP techniques**  
-- Interactive web UI with **graphs + charts**  
-- Implemented via **Flask/Streamlit**  
+# 🏆 Certifications
+- **Artificial Intelligence Engineer – Master’s Program (Simplilearn + IBM)** — Distinction (ID: 129767264)  
+- **Advanced Generative AI** — (Code: 8480425)  
+- **AI Engineer Capstone** — (Code: 8016153)  
+- **Deep Learning Specialization** — (Code: 7984250)  
+- **Machine Learning using Python** — (Code: 8539358)  
+- **Data Science with Python** — (Code: 8448599)  
+- **Python for Data Science – IBM Skills Network** (Foundational)  
+- **Foundations: Programming Refresher** (Code: 7540760)
 
 ---
 
-### 🔹 **AI Learning Chatbot with LangChain + OpenAI**
-- Tracks user mistakes and provides smart feedback  
-- Context-aware conversation using **LangChain Memory**  
-- Developed a **RAG-powered knowledge assistant**  
-- Built with Python + GenAI Tools  
+# 🚀 Highlighted Projects
+(Short, recruiter-friendly bullets — add repo links where available)
+
+### AI-Powered Boat Classification (MobileNetV2)
+- Mobile-optimized CNN to classify 9 boat types; TensorFlow + transfer learning; Flask API.
+
+### Math-Focused Assistant (RAG + LangGraph)
+- OCR + retrieval-augmented LLM system with Qdrant vector DB; FastAPI backend.
+
+### Text-to-Image Generator (OpenAI + Gradio)
+- Secure OpenAI API integration producing 1024×1024 outputs; Gradio demo UI.
+
+### Employee Turnover Analytics (ML Project)
+- End-to-end pipeline: EDA → modelling → evaluation; actionable insights dashboard.
 
 ---
 
-### 🔹 **Employee Turnover Prediction – ML Project**
-- Predicts employee attrition using ML classification  
-- Includes **EDA, feature engineering, model tuning**  
-- Built dashboards for insights  
-
----
-
-# 📄 **Resume**
+# 📄 Resume
 [![Resume](https://img.shields.io/badge/Resume-View-blue?style=for-the-badge&logo=google-drive)](https://drive.google.com/file/d/1715sZ0fRJD4P-6WCb2Vqh2PB9DzDQvPw/view?usp=drive_link)
 
 ---
 
-# 📊 **GitHub Stats**
-
+# 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Santosh9519424222&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santosh9519424222&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Santosh9519424222&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santosh9519424222&layout=compact&theme=tokyonight&hide_border=true" height="170em" />
 </div>
 
 <div align="center">
@@ -144,30 +117,23 @@ I’m an aspiring **AI & Machine Learning Engineer** with strong skills in **Dee
 
 ---
 
-# 🐍 **Contribution Graph**
+# 🐍 Contribution Graph
 ![GitHub Snake](https://raw.githubusercontent.com/Santosh9519424222/Santosh9519424222/output/snake.svg)
 
 ---
 
-# 🤝 **Connect With Me**
-
+# 🤝 Connect
 <p align="center">
-  <a href="https://www.linkedin.com/in/santosh-kumar-43224a320" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/santosh9519424222" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="mailto:santosh.951942@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/Santosh9519424222" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+  <a href="https://www.linkedin.com/in/santosh-kumar-43224a320" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:santosh.951942@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/Santosh9519424222" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
 
-<div align="center">
-  <i>⭐ If you like my profile, consider giving a star to my repositories!</i>
-</div>
+> ⭐ If you want, I can now:
+> - Add **direct repo links** for each highlighted project (I can auto-build the bullet list with links),  
+> - Produce a condensed **one-page resume** from your GitHub + uploaded resume, or  
+> - Generate a **LinkedIn-ready About section** using the same language.
+
+Tell me which of the three you want next (projects with links / resume page / LinkedIn About) and I’ll produce it.  
