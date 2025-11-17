@@ -16,7 +16,7 @@ I'm an aspiring **AI & ML Engineer** passionate about building intelligent solut
 - 🔭 I'm currently working on **AI/ML projects**
 - 🌱 I'm currently learning **Deep Learning, NLP, and Computer Vision**
 - 💬 Ask me about **Python, Machine Learning, AI**
-- 📫 How to reach me: **santosh9519424222@gmail.com**
+- 📫 How to reach me: **santosh.951942@gmail.com**
 - ⚡ Fun fact: **I turn coffee into code!**
 
 ---
